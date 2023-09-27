@@ -1,1 +1,4 @@
-body{background-color:darksalmon;}
+body{background-color:darksalmon;
+     font-size: 16px;
+     text-align: center;}  
+.negrito{color: red;}
